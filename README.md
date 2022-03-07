@@ -3,8 +3,8 @@
 ## Informations
 
 Back-end of the project in done in Java.\
-Front-end if done in Javascript/React using MUI Library.\
-Back-end push event based data to the front-end.
+Front-end is done in Javascript/React using MUI Library.\
+Back-end pushes event-based data to the front-end.
 
 Back-end is using Spring to expose websocket end-points\
 and to expose the webpage and the javascript/React runtime.
