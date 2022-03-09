@@ -9,8 +9,8 @@ Back-end pushes event-based data to the front-end.
 Back-end is using Spring to expose websocket end-points\
 and to expose the webpage and the javascript/React runtime.
 
-Front-end subscribe to back-end websocket broker and display\
-the pushed data using React component.
+Front-end subscribes to back-end websocket broker and displays\
+the pushed data using React components.
 
 Project is using frontend-maven-plugin to use webpack and \
 pack the front-end during maven back-end build process.
@@ -33,7 +33,7 @@ to start the webserver :
 ## Usage
 
 Open the following link in your browser.\
-The Foobar production start when the page open.\
+The Foobar production starts when the page open.\
 Refresh the page to start a new production.
 
 ```bash
