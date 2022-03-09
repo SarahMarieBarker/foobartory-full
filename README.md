@@ -33,7 +33,7 @@ to start the webserver :
 ## Usage
 
 Open the following link in your browser.\
-The Foobar production starts when the page open.\
+The Foobar production starts when the page opens.\
 Refresh the page to start a new production.
 
 ```bash
