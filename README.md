@@ -2,7 +2,7 @@
 
 ## Informations
 
-Back-end of the project in done in Java.\
+Back-end of the project is done in Java.\
 Front-end is done in Javascript/React using MUI Library.\
 Back-end pushes event-based data to the front-end.
 
